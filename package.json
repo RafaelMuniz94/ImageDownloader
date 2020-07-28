@@ -1,0 +1,28 @@
+{
+  "name": "imagedownloader",
+  "version": "1.0.0",
+  "description": "Sistema para download de imagens sem CopyRight",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelMuniz94/ImageDownloader.git"
+  },
+  "keywords": [
+    "Download",
+    "Images",
+    "NoCopyRights"
+  ],
+  "author": "Rafael Muniz (RafaelMuniz94)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RafaelMuniz94/ImageDownloader/issues"
+  },
+  "homepage": "https://github.com/RafaelMuniz94/ImageDownloader#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}

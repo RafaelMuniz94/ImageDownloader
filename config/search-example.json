@@ -1,0 +1,16 @@
+{
+    "baseURL": "https://api.pexels.com/v1/search",
+    "terms":[
+        {"name":"term1","amount":0},
+        {"name":"term2","amount":0},
+        {"name":"term3","amount":0},
+        {"name":"term4","amount":0},
+        {"name":"term5","amount":0},
+        {"name":"term6","amount":0}
+    ],
+    "locale":[
+        "locale1",
+        "locale2",
+        "locale3"
+    ]
+}
